@@ -1,3 +1,5 @@
+## Running tests
+
 You should see output like the following:
 
 ```sh
